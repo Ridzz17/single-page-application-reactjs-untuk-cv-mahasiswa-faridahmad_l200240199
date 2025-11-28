@@ -1,0 +1,133 @@
+{
+  "id": 199,
+  "slug": "farid-fakih-dev-investor",
+  "profile": {
+    "full_name": "Farid Ahmad Fakih",
+    "nim": "L200240199",
+    "prodi": "Teknik Informatika",
+    "angkatan": "2024",
+    "headline": "Novice IT Developer | Stock Investor & Business Enthusiast",
+    "short_bio": "Hello! My name is Farid Ahmad Fakih, I am a passionate person and have a great interest in information technology and finance. I am still beginner, with some experience work in business and information technology. I am a person who always strives to learn and develop my skills. I love challenges and am not afraid to explore new things. In addition, I enjoy collaborating with others and sharing experiences, as I believe that learning from each other is the best way to grow.",
+    "location": "Surakarta, Jawa Tengah",
+    "email": "fa6454666@gmail.com",
+    "phone": "+62 857-2873-0981",
+    "photo_url": "/Gemini_Generated.png",
+    "portfolio_url": "https://www.linkedin.com/in/faridahmd17/"
+  },
+  "education": [
+    {
+      "id": 1,
+      "institution": "Universitas Muhammadiyah Surakarta",
+      "degree": "Bachelor's degree",
+      "major": "Informatics Engineering",
+      "start_year": "2024",
+      "end_year": "Present",
+      "gpa": "3.93",
+      "description": "Mahasiswa aktif jurusan Teknik Informatika."
+    },
+    {
+      "id": 2,
+      "institution": "SMK Negeri 2 Surakarta",
+      "degree": "Vocational High School",
+      "major": "Software Engineering",
+      "start_year": "2021",
+      "end_year": "2024",
+      "gpa": "90.11 (Avg Score)",
+      "description": "Fokus pada Rekayasa Perangkat Lunak (RPL)."
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "ReactJS",
+      "category": "technical",
+      "level": "advanced",
+      "is_main": true
+    },
+    {
+      "id": 2,
+      "name": "Fullstack Web Development",
+      "category": "technical",
+      "level": "intermediate",
+      "is_main": true
+    },
+    {
+      "id": 3,
+      "name": "Project Management",
+      "category": "soft_skill",
+      "level": "intermediate",
+      "is_main": true
+    },
+    {
+      "id": 4,
+      "name": "Leadership & Teamwork",
+      "category": "soft_skill",
+      "level": "advanced",
+      "is_main": true
+    },
+    {
+      "id": 5,
+      "name": "Fundamental Analysis",
+      "category": "business",
+      "level": "intermediate",
+      "is_main": true
+    },
+    {
+      "id": 6,
+      "name": "Time Management & Adaptability",
+      "category": "soft_skill",
+      "level": "intermediate",
+      "is_main": true
+    }
+  ],
+  "experiences": [
+    {
+      "id": 108,
+      "title": "Research & Technology Division Member",
+      "organization": "Informatics Open Source Forum (FOSTI)",
+      "experience_type": "organization",
+      "start_date": "2024-01-01",
+      "end_date": null,
+      "is_current": true,
+      "description": "Berkontribusi aktif dalam pengembangan proyek open source.",
+      "technologies": ["Web Development", "IoT", "Team Collaboration"]
+    },
+    {
+      "id": 105,
+      "title": "Founder & Developer",
+      "organization": "FinTech Personal Project",
+      "experience_type": "project",
+      "start_date": "2024-08-01",
+      "end_date": null,
+      "is_current": true,
+      "description": "Membangun algoritma screening saham otomatis menggunakan Python dan mengelola portofolio investasi pribadi.",
+      "technologies": ["Python", "Pandas", "Stock API"]
+    },
+    {
+      "id": 107,
+      "title": "Full-stack Web Developer Intern",
+      "organization": "PT. Mitra Data Abadi",
+      "experience_type": "internship",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "is_current": false,
+      "description": "Create and develop complex Point of Sales websites based on market demand. Learn, lead, and manage programming teams, fostering a collaborative and results-oriented work environment.",
+      "technologies": ["Full-Stack Development", "POS Systems", "Team Leadership"]
+    },
+    {
+      "id": 106,
+      "title": "Program Administrator Intern",
+      "organization": "DISPERINDAG Sragen",
+      "experience_type": "internship",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "is_current": false,
+      "description": "Involved as an administrator of the market e-retribution program from DISPERINDAG Sragen to maintain and also develop the program. See and analyze the needs of market levies to create the right program for government needs",
+      "technologies": ["Project Administration", "Data Analysis", "Public Sector"]
+    }
+  ],
+  "statistics": {
+    "views_count": 142,
+    "profile_complete_percent": 100
+  }
+}
